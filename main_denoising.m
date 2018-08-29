@@ -5,11 +5,18 @@
 %   FBS_ITV.m  FBS algorithms for Non-convex Isotropic Total Variation denoising
 %   SB_ATV.m  Split Bregman Anisotropic Total Variation Denoising
 %   SB_ITV.m  Split Bregman Isotropic Total Variation Denoising
-%   SB_ATV.m and SB_ITV.m are written by Benjamin Tr¨¦moulh¨¦ac, University
+%   SB_ATV.m and SB_ITV.m are written by Benjamin TrÂ¨Â¦moulhÂ¨Â¦ac, University
 %   College London, which can be downloaded from 
 %   https://www.mathworks.com/matlabcentral/fileexchange/36278-split-bregman-method-for-total-variation-denoising
 
-
+% Refs:
+%  *Jian Zou, Total Variation Denoising with Non-convex Regularizations
+%   
+%
+% Jian Zou
+% School of Information and Mathematics
+% Yangtze University 
+% zoujian@yangtzeu.edu.cn
 clc; clear all;
 close all;
 
